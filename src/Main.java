@@ -7,7 +7,7 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("\n1. enqueue()\n2. dequeue()\n3. isEmpty()\n4. isFull()\n5. display()\n6. Exit");
+            System.out.println("\n1. enqueue()\n2. dequeue()\n3. isEmpty()\n4. isFull()\n5. count()\n6. display()\n7. Exit");
             System.out.print("Enter your choice: ");
             choice = scanner.nextInt();
 
